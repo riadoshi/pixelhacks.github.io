@@ -29,10 +29,6 @@
      }
  }
 
- /*#main-nav{
-   background-color: #ff7bac;
- }*/
-
  .header{
   position: relative;
   height: 1000px;
@@ -180,7 +176,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 #sendButton{
-  background-color:#ff7bac;
+  background-color:#800080;
 }
 
 #sendButton:hover,
@@ -188,7 +184,7 @@ fieldset[disabled] .btn-primary.active {
 #sendButton:active,
 #sendButton.active,
 .open .dropdown-toggle.btn-xl{
-  background-color:#ff7bac;
+  background-color:#800080;
   opacity:0.9;
 }
 
@@ -264,15 +260,15 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
-  background-color: #ff7bac;
-  border-color: #ff7bac;
+  background-color: #800080;
+  border-color: #800080;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #ff7bac;
+  background-color: #800080;
 }
 .navbar-custom .nav li a {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
@@ -302,7 +298,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #ff7bac;
+  background-color: #800080;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -713,7 +709,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #ff7bac;
+  webkit-tap-highlight-color: #800080;
 }
 
 .panel-heading-purple:hover {
