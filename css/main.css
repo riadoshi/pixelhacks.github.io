@@ -240,6 +240,58 @@ fieldset[disabled] .btn-xl.active {
   color: #fed136;
   background-color: white;
 }
+.btn-med {
+  font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
+  background-color: purple;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 15px;
+  padding: 10px 20px;
+  margin:5px 5px 10px;
+}
+.btn-med:hover,
+.btn-med:focus,
+.btn-med:active,
+.btn-med.active,
+.open .dropdown-toggle.btn-med {
+  color: white;
+  background-color: #B333B3;
+
+  /*eases button hover transtion */
+  transition: all ease 0.3s;
+  -webkit-transition: all ease 0.3s;
+  -moz-transition: all ease 0.3s;
+  border-color: none;
+}
+.btn-med:active,
+.btn-med.active,
+.open .dropdown-toggle.btn-med {
+  background-image: none;
+}
+.btn-med.disabled,
+.btn-med[disabled],
+fieldset[disabled] .btn-med,
+.btn-med.disabled:hover,
+.btn-med[disabled]:hover,
+fieldset[disabled] .btn-med:hover,
+.btn-med.disabled:focus,
+.btn-med[disabled]:focus,
+fieldset[disabled] .btn-med:focus,
+.btn-med.disabled:active,
+.btn-med[disabled]:active,
+fieldset[disabled] .btn-med:active,
+.btn-med.disabled.active,
+.btn-med[disabled].active,
+fieldset[disabled] .btn-med.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-med .badge {
+  color: #fed136;
+  background-color: white;
+}
 .navbar-custom {
   background-color: #222222;
   border-color: transparent;
