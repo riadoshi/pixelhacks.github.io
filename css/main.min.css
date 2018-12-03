@@ -120,7 +120,7 @@ fieldset[disabled] .btn-xl.active{background-color:#fed136;border-color:#fed136;
 @media (min-width:768px){.navbar-custom.affix{background-color:#222222;padding:10px 0;}
 .navbar-custom.affix .navbar-brand{font-size:1.5em;}
 }
-header{background-image:url('../img/header-bg.jpg');background-repeat:no-repeat;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:white;}
+header{background-image:url('../img/homescreen2.jpg');background-repeat:no-repeat;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:white;}
 header .intro-text{padding-top:100px;padding-bottom:50px;}
 header .intro-text .intro-lead-in{font-family:'DINPro-Bold', 'Helvetica', 'sans-serif';font-style:bold;font-size:100px;line-height:75px;margin-bottom:25px;}
 header .intro-text .intro-heading{font-family:'DINPro', 'Helvetica', 'sans-serif';text-transform:uppercase;font-weight:700;font-size:4.5em;line-height:1em;margin-bottom:15px;}
