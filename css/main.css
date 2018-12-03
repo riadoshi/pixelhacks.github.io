@@ -82,7 +82,7 @@ b {
 /* in text links */
 a.in-text{
   text-decoration: underline;
-  color: purple;
+  color: blue;
 }
 
 a.in-text:hover,
