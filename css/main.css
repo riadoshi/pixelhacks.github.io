@@ -43,6 +43,20 @@
   overflow: hidden;
  }
 
+ .header-2018 {
+  position: relative;
+  height: 800px;
+  min-height: 400px;
+  width: 100%;
+  background: #161415 url(../img/2018-website/header-background-eva.jpg) no-repeat top center;
+  background-color: rgba(20,0,0,0.5); /* tint */
+  background-blend-mode: multiply;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  text-align: center;
+  overflow: hidden;
+ }
+
  
  /* Animates hovering over buttons */
  .animate-button:hover{
