@@ -45,7 +45,7 @@ h6{font-family:'DINPro-Bold', 'Helvetica', sans-serif;text-transform:uppercase;f
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
-.open .dropdown-toggle.btn-primary{color:white;background-color:#fec503;border-color:#f6bf01;}
+.open .dropdown-toggle.btn-primary{color:white;background-color:#eadf69;border-color:#f6bf01;}
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary{background-image:none;}
@@ -65,18 +65,18 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active{background-color:#fed136;border-color:#fed136;}
 .btn-primary .badge{color:#fed136;background-color:white;}
-#sendButton{background-color:#ff7bac;}
+#sendButton{background-color:#eadf69;}
 #sendButton:hover,
 #sendButton:focus,
 #sendButton:active,
 #sendButton.active,
-.open .dropdown-toggle.btn-xl{background-color:#ff7bac;opacity:0.9;}
+.open .dropdown-toggle.btn-xl{background-color:#eadf69}
 .btn-xl{font-family:'DINPro', 'Helvetica', 'sans-serif';background-color:#eadf69;color:white;text-transform:uppercase;font-weight:700;border-radius:3px;font-size:18px;padding:20px 40px;margin:5px 5px;}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
 .btn-xl.active,
-.open .dropdown-toggle.btn-xl{color:white;background-color:#B333B3;transition:all ease 0.3s;-webkit-transition:all ease 0.3s;-moz-transition:all ease 0.3s;border-color:none;}
+.open .dropdown-toggle.btn-xl{color:white;background-color:#eadf69;transition:all ease 0.3s;-webkit-transition:all ease 0.3s;-moz-transition:all ease 0.3s;border-color:none;}
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl{background-image:none;}
@@ -103,16 +103,16 @@ fieldset[disabled] .btn-xl.active{background-color:#fed136;border-color:#fed136;
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active{color:white;}
 .navbar-custom .navbar-collapse{border-color:rgba(255, 255, 255, 0.02);}
-.navbar-custom .navbar-toggle{font-family:'DINPro','Helvetica', 'sans-serif';background-color:#ff7bac;border-color:#ff7bac;text-transform:uppercase;color:white;font-size:12px;}
+.navbar-custom .navbar-toggle{font-family:'DINPro','Helvetica', 'sans-serif';background-color:#eadf69;border-color:#eadf69;text-transform:uppercase;color:white;font-size:12px;}
 .navbar-custom .navbar-toggle:hover,
-.navbar-custom .navbar-toggle:focus{background-color:#ff7bac;}
+.navbar-custom .navbar-toggle:focus{background-color:#eadf69;}
 .navbar-custom .nav li a{font-family:'DINPro', 'Helvetica', 'sans-serif';text-transform:uppercase;font-weight:400;letter-spacing:1px;color:white;cursor:pointer;}
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus{color:white;outline:none;}
 .navbar-custom .navbar-nav > .active > a{border-radius:0;color:white;background:linear-gradient(270deg, #00ffff, #ff7bac);background-size:400% 400%;-webkit-animation:GradientAnimation 10s ease infinite;-moz-animation:GradientAnimation 10s ease infinite;animation:GradientAnimation 10s ease infinite;}
 #home-link{border-radius:0;color:white;background:none;}
 .navbar-custom .navbar-nav > .active > a:hover,
-.navbar-custom .navbar-nav > .active > a:focus{color:white;background-color:#ff7bac;}
+.navbar-custom .navbar-nav > .active > a:focus{color:white;background-color:#eadf69;}
 @media (min-width:768px){.navbar-custom{background-color:transparent;padding:25px 0;-webkit-transition:padding 0.3s;-moz-transition:padding 0.3s;transition:padding 0.3s;border:none;}
 .navbar-custom .navbar-brand{font-size:2em;-webkit-transition:all 0.3s;-moz-transition:all 0.3s;transition:all 0.3s;}
 .navbar-custom .navbar-nav > .active > a{border-radius:3px;}
@@ -201,7 +201,7 @@ section#contact .form-group input,
 section#contact .form-group textarea{padding:20px;}
 section#contact .form-group input.form-control{height:auto;}
 section#contact .form-group textarea.form-control{height:236px;}
-section#contact .form-control:focus{border-color:#fed136;box-shadow:none;}
+section#contact .form-control:focus{border-color:#eadf69;box-shadow:none;}
 section#contact::-webkit-input-placeholder{font-family:'DINPro', 'Helvetica', 'sans-serif'
 text-transform:uppercase;font-weight:700;}
 section#contact:-moz-placeholder{font-family:'DINPro', 'Helvetica', 'sans-serif'
@@ -210,7 +210,7 @@ section#contact::-moz-placeholder{font-family:'DINPro', 'Helvetica', 'sans-serif
 text-transform:uppercase;font-weight:700;}
 section#contact:-ms-input-placeholder{font-family:'DINPro', 'Helvetica', 'sans-serif'
 text-transform:uppercase;font-weight:700;}
-section#contact .text-danger{color:#e74c3c;}
+section#contact .text-danger{color:#eadf69;}
 footer{padding:50px 0;text-align:center;background-color:black;color:white;}
 footer span.copyright{line-height:40px;font-family:'DINPro', 'Helvetica', 'sans-serif'
 text-transform:uppercase;text-transform:none;}
@@ -220,7 +220,7 @@ ul.social-buttons{margin-bottom:0;}
 ul.social-buttons li a{display:block;background-color:#222222;height:2.8em;width:2.8em;border-radius:100%;font-size:1.5em;line-height:2.9em;color:white;outline:none;-webkit-transition:all 0.3s;-moz-transition:all 0.3s;transition:all 0.3s;}
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
-ul.social-buttons li a:active{background-color:#ff7bac;}
+ul.social-buttons li a:active{background-color:#eadf69;}
 .social-twitter:hover,
 .social-twitter:focus,
 .social-twitter:active{color:#55acee;}
