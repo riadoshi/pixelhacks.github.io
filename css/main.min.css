@@ -25,7 +25,7 @@ p.large{font-size:20px;}
 a.in-text:hover,
 a.in-text:focus,
 a.in-text:active,
-a.in-text:active{color:purple;text-decoration:underline;}
+a.in-text:active{color:#eadf69;text-decoration:underline;}
 a.faq-panel{color:inherit;text-decoration:underline;}
 a.faq-panel:hover,
 a.faq-panel:focus,
@@ -71,7 +71,7 @@ fieldset[disabled] .btn-primary.active{background-color:#fed136;border-color:#fe
 #sendButton:active,
 #sendButton.active,
 .open .dropdown-toggle.btn-xl{background-color:#ff7bac;opacity:0.9;}
-.btn-xl{font-family:'DINPro', 'Helvetica', 'sans-serif';background-color:purple;color:white;text-transform:uppercase;font-weight:700;border-radius:3px;font-size:18px;padding:20px 40px;margin:5px 5px;}
+.btn-xl{font-family:'DINPro', 'Helvetica', 'sans-serif';background-color:#eadf69;color:white;text-transform:uppercase;font-weight:700;border-radius:3px;font-size:18px;padding:20px 40px;margin:5px 5px;}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
