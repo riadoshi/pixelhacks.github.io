@@ -66,11 +66,11 @@
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: #DDA0DD;
+     background: #fcf3a1;
  }
 
  ::selection {
-     background: #DDA0DD;
+     background: #eadc5b;
  }
 
 body {
@@ -190,7 +190,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 #sendButton{
-  background-color:#800080;
+  background-color:#eadc5b;
 }
 
 #sendButton:hover,
@@ -198,7 +198,7 @@ fieldset[disabled] .btn-primary.active {
 #sendButton:active,
 #sendButton.active,
 .open .dropdown-toggle.btn-xl{
-  background-color:#800080;
+  background-color:#eadc5b;
   opacity:0.9;
 }
 
@@ -326,15 +326,15 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
-  background-color: #800080;
-  border-color: #800080;
+  background-color: #eadc5b;
+  border-color: #eadc5b;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #800080;
+  background-color: #eadc5b;
 }
 .navbar-custom .nav li a {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
@@ -364,7 +364,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #800080;
+  background-color: #eadc5b;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -563,7 +563,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: purple;
+  background-color: #eadc5b;
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px 0;
@@ -775,7 +775,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #800080;
+  webkit-tap-highlight-color: #eadc5b;
 }
 
 .panel-heading-purple:hover {
