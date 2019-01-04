@@ -60,13 +60,13 @@
  
  /* Animates hovering over buttons */
  .animate-button:hover{
-   background: #8B008B;
+   background: #eadc5b;
  }
 
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: #fcf3a1;
+     background: #eadc5b;
  }
 
  ::selection {
@@ -204,7 +204,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: purple;
+  background-color: #eadc5b;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -219,7 +219,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #B333B3;
+  background-color: #eadc5b;
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .btn-med {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: purple;
+  background-color: #eadc5b;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-med.active,
 .open .dropdown-toggle.btn-med {
   color: white;
-  background-color: #B333B3;
+  background-color: #eadc5b;
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -779,7 +779,7 @@ body {
 }
 
 .panel-heading-purple:hover {
-    background: #800080;
+    background: #eadc5b;
     color: white;
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
