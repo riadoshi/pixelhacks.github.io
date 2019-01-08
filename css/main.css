@@ -352,7 +352,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background: yellow;
+  background: #eadc5b;
   background-size: 400% 400%;
 }
 
