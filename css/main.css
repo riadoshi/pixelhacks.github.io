@@ -103,7 +103,7 @@ a.in-text:hover,
 a.in-text:focus,
 a.in-text:active,
 a.in-text:active {
-  color: purple;
+  color: yellow;
   text-decoration:underline;
 }
 
@@ -352,7 +352,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background: purple;
+  background: yellow;
   background-size: 400% 400%;
 }
 
