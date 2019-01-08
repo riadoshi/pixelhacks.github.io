@@ -60,17 +60,17 @@
  
  /* Animates hovering over buttons */
  .animate-button:hover{
-   background: #eadc5b;
+   background: #fed136;
  }
 
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: #eadc5b;
+     background: #fed136;
  }
 
  ::selection {
-     background: #eadc5b;
+     background: #fed136;
  }
 
 body {
@@ -158,8 +158,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  background-color: #fed136;
+  border-color: #fed136;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -190,7 +190,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 #sendButton{
-  background-color:#eadc5b;
+  background-color:#fed136;
 }
 
 #sendButton:hover,
@@ -198,13 +198,13 @@ fieldset[disabled] .btn-primary.active {
 #sendButton:active,
 #sendButton.active,
 .open .dropdown-toggle.btn-xl{
-  background-color:#eadc5b;
+  background-color:#fed136;
   opacity:0.9;
 }
 
 .btn-xl {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: #eadc5b;
+  background-color: #fed136;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -219,7 +219,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #eadc5b;
+  background-color: #fed136
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .btn-med {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: #eadc5b;
+  background-color: #fed136;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-med.active,
 .open .dropdown-toggle.btn-med {
   color: white;
-  background-color: #eadc5b;
+  background-color: #fed136;
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -326,15 +326,15 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
-  background-color: #eadc5b;
-  border-color: #eadc5b;
+  background-color: #fed136;
+  border-color: #fed136;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #eadc5b;
+  background-color: #fed136;
 }
 .navbar-custom .nav li a {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
@@ -352,7 +352,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background: #eadc5b;
+  background: #fed136;
   background-size: 400% 400%;
 }
 
@@ -364,7 +364,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #eadc5b;
+  background-color: #fed136;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -563,7 +563,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #ddc700;
+  background-color: #fed136;
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px 0;
@@ -762,11 +762,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #eadc5b;
+  background: #fed136;
 }
 ::selection {
   text-shadow: none;
-  background: #eadc5b;
+  background: #fed136;
 }
 img::selection {
   background: transparent;
@@ -775,11 +775,11 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #eadc5b;
+  webkit-tap-highlight-color: #fed136;
 }
 
 .panel-heading-purple:hover {
-    background: #eadc5b;
+    background: #fed136;
     color: white;
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
