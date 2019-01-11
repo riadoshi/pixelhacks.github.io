@@ -307,7 +307,7 @@ fieldset[disabled] .btn-med.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #222222;
+  background-color: transparent;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
