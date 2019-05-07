@@ -57,7 +57,7 @@
   overflow: hidden;
  }
 
- 
+
  /* Animates hovering over buttons */
  .animate-button:hover{
    background: #fed136;
@@ -139,7 +139,7 @@ h6 {
   margin-right: auto;
 }
 .bg-light-gray {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; - was yellow */
 }
 .bg-darkest-gray {
   background-color: #222222;
@@ -446,7 +446,7 @@ header .intro-text .header-img {
   }
   header .intro-text .intro-heading {
     font-family: 'DINPro-Bold', 'Helvetica', 'sans-serif' ;
-    text-transform: uppercase; 
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 8em;
     line-height: 1em;
