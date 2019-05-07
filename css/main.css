@@ -60,17 +60,17 @@
 
  /* Animates hovering over buttons */
  .animate-button:hover{
-   background: #fed136;
+   background: rgb(235, 181, 255); /* #fed136; */
  }
 
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: #fed136;
+     background: rgb(235, 181, 255); /* #fed136; */
  }
 
  ::selection {
-     background: #fed136;
+     background: rgb(235, 181, 255); /* #fed136; */
  }
 
 body {
@@ -146,7 +146,7 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
   font-family: 'DINPro', 'Helvetica', sans-serif ;
   text-transform: uppercase;
@@ -158,7 +158,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-primary:active,
@@ -181,7 +181,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-primary .badge {
@@ -204,7 +204,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -219,7 +219,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #fed136
+  background-color: rgb(235, 181, 255); /* #fed136; */
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -247,7 +247,7 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-xl .badge {
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .btn-med {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-med.active,
 .open .dropdown-toggle.btn-med {
   color: white;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -299,7 +299,7 @@ fieldset[disabled] .btn-med:active,
 .btn-med.disabled.active,
 .btn-med[disabled].active,
 fieldset[disabled] .btn-med.active {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-med .badge {
@@ -326,7 +326,7 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   border-color: #fed136;
   text-transform: uppercase;
   color: white;
@@ -334,7 +334,7 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
 }
 .navbar-custom .nav li a {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
@@ -352,7 +352,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background: #fed136;
+  background: rgb(235, 181, 255); /* #fed136; */
   background-size: 400% 400%;
 }
 
@@ -364,7 +364,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -563,7 +563,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #fed136;
+  background-color: rgb(235, 181, 255); /* #fed136; */;
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px 0;
@@ -762,11 +762,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #fed136;
+  background: rgb(235, 181, 255); /* #fed136; */
 }
 ::selection {
   text-shadow: none;
-  background: #fed136;
+  background: rgb(235, 181, 255); /* #fed136; */
 }
 img::selection {
   background: transparent;
@@ -779,7 +779,7 @@ body {
 }
 
 .panel-heading-purple:hover {
-    background: #fed136;
+    background: rgb(235, 181, 255); /* #fed136; */
     color: white;
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
